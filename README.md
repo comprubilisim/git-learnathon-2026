@@ -15,9 +15,9 @@ Sağ üst köşedeki **Fork** butonuna tıklayarak bu repoyu kendi GitHub hesab�
   ```
 
 ### 3. Kendi Dalını Oluştur (Branch)
-Ana dal olan `main` üzerinde doğrudan değişiklik yapmıyoruz. Kendi isminle yeni bir dal aç:
+Ana dal olan `main` üzerinde doğrudan değişiklik yapmıyoruz. Kendi isminle yeni bir dal aç ve ona geç:
 ```bash
-git checkout -b katilimci/ad-soyad
+git checkout -b katilimcilar/ad-soyad
 ```
 
 ### 4. Kendi Katılımcı Kartını Oluştur
@@ -36,14 +36,3 @@ git push -u origin katilimci/ad-soyad
 3. Kontrol kutucuklarını işaretle ve **"Create pull request"** butonuna basarak kodunu ana projeye gönder!
 
 ---
-
-### 💡 Takılırsan Hızlı Kurtarma Komutları
-* **Fork açmayı unutup doğrudan ana repoyu `clone`ladıysan:** Tarayıcıdan repoyu forkla, ardından terminalde adresini güncelle:
-  ```bash
-  git remote set-url origin https://github.com/KENDI_KULLANICI_ADIN/git-learnathon-2026.git
-  git push -u origin katilimci/ad-soyad
-  ```
-* **Commit mesajında yazım hatası yaptıysan:**
-  ```bash
-  git commit --amend -m "Feat: Duzeltilmis commit mesaji"
-  ```
