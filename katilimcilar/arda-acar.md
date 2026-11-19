@@ -1,0 +1,4 @@
+- **Ad Soyad:** Arda Acar
+- **Bölüm / Sınıf:** Bilgisayar Mühendisliği - 2. Sınıf
+- **GitHub:** @acar-arda
+- **Etkinlik Notu:** Etkinliği çok beğendim.
