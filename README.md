@@ -7,13 +7,12 @@ Bu repo, **19 Kasım 2026** tarihinde Piri Reis Üniversitesi'nde düzenlenen **
 ### 1. Repoyu Kendi Hesabına Kopyala (Fork)
 Sağ üst köşedeki **Fork** butonuna tıklayarak bu repoyu kendi GitHub hesabına kopyala.
 
-### 2. Projeyi Çalışma Ortamına Al (Clone veya Codespaces)
-* **Kendi Bilgisayarında Çalışıyorsan:** Kendi fork repondaki yeşil **`<> Code`** butonundan HTTPS linkini kopyala ve terminalde çalıştır:
+### 2. Projeyi Çalışma Ortamına Al (Clone)
+* Kendi fork repondaki yeşil **`<> Code`** butonundan HTTPS linkini kopyala ve terminalde çalıştır:
   ```bash
   git clone https://github.com/KENDI_KULLANICI_ADIN/git-learnathon-2026.git
   cd git-learnathon-2026
   ```
-* **GitHub Codespaces ile Tarayıcıda Çalışıyorsan:** Kendi fork repondayken **`<> Code` -> `Codespaces` -> `Create codespace on main`** yolunu izle (otomatik olarak klonlanmış halde terminalin açılacaktır).
 
 ### 3. Kendi Dalını Oluştur (Branch)
 Ana dal olan `main` üzerinde doğrudan değişiklik yapmıyoruz. Kendi isminle yeni bir dal aç:
